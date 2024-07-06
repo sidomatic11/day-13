@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="shortcut icon" href="#" />
+		<title>Day 12</title>
+		<link rel="stylesheet" href="./style.css" />
+	</head>
+
+	<body>
+		<!-- <div class="startScreen" id="startScreen">
+			<div class="startScreenText">
+				Interact by bringing your hands in front of the camera
+			</div>
+			<div id="startButton">Start</div>
+		</div> -->
+		<div id="liveVideoView" class="videoView">
+			<video id="webcam" autoplay playsinline></video>
+			<div class="detections" id="video-detections-container">
+				<canvas class="canvas" id="hand-landmarks-canvas"></canvas>
+			</div>
+		</div>
+		<canvas class="webgl"></canvas>
+		<video id="videoElement" width="640" height="480" autoplay loop>
+			<source src="videos/monku.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+		<script type="module" src="./script.js"></script>
+		<!-- <script type="module" src="./tracking.js"></script> -->
+	</body>
+</html>

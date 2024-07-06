@@ -1,0 +1,11 @@
+Model Information:
+* title:	Banana (Банан)
+* source:	https://sketchfab.com/3d-models/banana-1b6f7a19b53c4f50ad4e24620e594dbd
+* author:	Micx Vi (https://sketchfab.com/micx64rus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Banana (Банан)" (https://sketchfab.com/3d-models/banana-1b6f7a19b53c4f50ad4e24620e594dbd) by Micx Vi (https://sketchfab.com/micx64rus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
